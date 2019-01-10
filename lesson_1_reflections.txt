@@ -1,0 +1,62 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It made it easier to identify which lines were different which in effect made it easier and less time consuming to identify the bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    We could keep track of all changes made so that if any code  is left out in any version we could identify it more easier
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    We can save a version when a specific functionality has been completed rather than at a specific time however one con is that we could forget to save 
+	a specific version on time
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+   It would help me identify the incorrect design steps I made while coding and developing software and how I rectified them so that 
+I would not make the same mistakes again.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The pros are we can make commits when wemake logical changes to our code that would alos be more helpful when we review our code vs haveing the code saved every hour
+however the con's are that its subject to human error as a person could forget to make a commit or use bad judgement. Having your code saved every hour without any 
+logical reason behind it would make it clumbersome to review and the number of changes might be alot in a short amount of time. 
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+  This allows us to easly keep a snapsho of all files as it allows us to better keep track of changes in multiple files 
+
+
+How can you use the commands git log and git diff to view the history of files?
+   We can use git log to view  different changes to the AM source code for CR's and git diff to view the exact changes in the code this could also help us 
+identify any bugs in the existing functionality
+
+How might using version control make you more confident to make changes that could break something?
+  I would have an exact record of the changes I made and also be able to revert them in case any bug does appear
+
+Now that you have your workspace set up, what do you want to try using Git for?
+  Fo checking for bugs in my AM Builds
+
+
+
+
